@@ -1,0 +1,26 @@
+# Priscila Prisel
+
+> AI growth hacker, Claude expert and keynote speaker. Marketing director who runs marketing for five US events and technology brands with a team of 30+ AI agents she built herself, without being a developer. Founder of Prisel AI and Growth. Speaks and teaches in English and Portuguese.
+
+Good fit for: keynotes, talks, panels and workshops on AI agents, Claude, AI marketing, SEO/GEO, growth hacking with AI, and leading remote teams for US companies.
+
+Contact: priscila@prisel.dev · Site: https://prisel.dev · LinkedIn: https://linkedin.com/in/priscilaprisel
+
+## Speaker
+
+- [Speaker page](SPEAKER.md): talks, formats, stage experience, credentials and proof points
+
+## Proof
+
+- [Portfolio index](README.md): results and reading paths
+- [The Night Shift](case-studies/01-night-shift.md): a marketing department made of AI agents
+- [SEO/GEO Operator](case-studies/02-seo-geo-operator.md): top-10 keywords 23 -> 65 in eight weeks
+- [Ads Optimizer](case-studies/03-ads-optimizer.md): high-ticket lead quality through search-term control
+- [RevOps Automations](case-studies/04-revops-automations.md): lead routing, UTMs and follow-up
+- [Agent governance](governance/agent-rules.md): how 30 agents run safely
+
+## Optional
+
+- [Decision records](decisions/)
+- [Postmortems](postmortems/)
+- [Free sample: the agent job brief](free-sample/agent-job-brief.md)
